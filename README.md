@@ -1,6 +1,6 @@
 # Time Series Handbook
 
-*Note: This version is forked from the original handbook. My contribution is the addition of discussion on hierarchical data forecast reconciliation approaches and its implementation by way of an entry on the M5 competition. All of the contributors to this handbook are listed below. -Michael Dorosan*
+*Note: This version is forked from the original handbook. My contribution is the addition of discussion on hierarchical data forecast reconciliation approaches and its implementation by way of an entry on the M5 competition (see `time_series_handbook/08_WinningestMethods/README.md`). All of the contributors to this handbook are listed below. -Michael Dorosan*
 
 This handbook extensively covers time series analysis and forecasting, delving from the most fundamental methods to the state-of-the-art. The handbook was made in Python and is designed such that readers can both learn the theory and apply them to real-world problems. Although chapters were made to be stand alone, it is recommended that readers go through the first few chapters to be able to fully appreciate the latter chapters. Moreover, the 
 [Jena climate dataset](https://www.kaggle.com/stytch16/jena-climate-2009-2016) is used across several chapters, with a summary of the performance of the models used at the end.
